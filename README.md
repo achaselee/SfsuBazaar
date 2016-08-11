@@ -1,4 +1,4 @@
-# SFSU Bazzar
+# SFSU Bazaar
 
 ## Executive Summary
 
